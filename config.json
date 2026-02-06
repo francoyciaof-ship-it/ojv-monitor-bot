@@ -1,0 +1,1 @@
+{"rits_to_monitor": ["12345-2024", "67890-2025"], "github_token": "${{ secrets.GITHUB_TOKEN }}", "check_day": "Saturday", "check_time": "08:00"}
